@@ -1,6 +1,7 @@
-Temp/
-Library/
-obj/
+
+ballwar/Temp/
+ballwar/Library/
+ballwar/obj/
 *.svd
 
 !Library/*.asset
